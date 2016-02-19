@@ -1,0 +1,1 @@
+{"version":3,"file":"demo\/app.js","sources":["app.cljs"],"lineCount":null,"mappings":"AAAA;;AAGA,IAAMA,eAAO,KAAAC,OAAA;AAAb,AACE,8BAAA,9BAAmBD,wCACjB;kBAAKE;AAAL,AACE,mBAAA,ZAACC,yCAA4CD;;;;AAEjD,yBAAA,zBAAcF","names":["worker","js\/Worker","msg","js\/console.log"]}
