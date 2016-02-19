@@ -1,3 +1,1 @@
-goog.require('demo.app');
-
-SHADOW_MODULES[":demo"] = true;
+var Ae=new Worker("/demo/js/worker1.js");Ae.addEventListener("message",function(a){return console.log("main got a msg from worker",a)});Ae.postMessage("hello from main");

@@ -1,1 +1,0 @@
-{"version":3,"file":"demo\/worker1.js","sources":["worker1.cljs"],"lineCount":null,"mappings":"AAAA;;AAGA,IAAAA,iBAAA;IAAAC,iBACE;kBAAKE;AAAL,AACE,YAAA,ZAACC,qCAAwCD;;AACzC,wBAAA,jBAACE;;;AAHL,AAAA,sBAAAL,eAAAC,rCAACC;AAKD,YAAA,ZAACE","names":["G__23370","G__23371","js\/self.addEventListener","msg","js\/console.log","js\/self.postMessage"]}
