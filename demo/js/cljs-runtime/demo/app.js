@@ -8,4 +8,4 @@ return console.log("main got a msg from worker",msg);
 );
 
 worker_23368.postMessage("hello from main");
-//# sourceMappingURL=app.js.map?r=0.6912343814615489
+//# sourceMappingURL=app.js.map?r=0.9978984850654687

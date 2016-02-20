@@ -10,4 +10,4 @@ return self.postMessage("hello from worker");
 ;
 self.addEventListener(G__23370_23372,G__23371_23373);
 console.log("started worker1");
-//# sourceMappingURL=worker1.js.map?r=0.5629661039321742
+//# sourceMappingURL=worker1.js.map?r=0.9184332985197592
